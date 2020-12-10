@@ -1,4 +1,4 @@
-Ôªø#include <iostream>
+#include <iostream>// ????????????????????????????????????/
 #include<stdlib.h>
 using namespace std;
 
@@ -50,7 +50,7 @@ class ZarejestrowanyUzytkownik : public Uzytkownik
 
 public:
     void Logowanie();
-    void Wypo≈ºyczenie();
+    void Wypoøyczenie();
     void Zwrot();
     void Rezerwacja();
 };
@@ -73,7 +73,7 @@ public:
     void ZglosUwagi();
 };
 
-class Platnosc  // bez klasy finalizacja nie mo≈ºna u≈ºyƒá tek klasy
+class Platnosc  // bez klasy finalizacja nie moøna uøyÊ tek klasy
 {
     bool status;
     string RodzajPlatnosci;
@@ -83,7 +83,7 @@ public:
     void WyborMetodyPlatnosci();
 };
 
-class Reklamacja  // bez klasy finalizacja nie mo≈ºna u≈ºyƒá tek klasy
+class Reklamacja  // bez klasy finalizacja nie moøna uøyÊ tek klasy
 {
     int NumerReklamacji;
     string Powod;
