@@ -1,0 +1,5 @@
+﻿  IO_Wypozyczalnia_Rowerow.cpp
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow.cpp(155,33): warning C4200: użyto niestandardowego rozszerzenia: tablica o rozmiarze zero w typie struct/union
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow.cpp(155,33): message : Ta składowa zostanie zignorowana przez domyślny konstruktor lub kopiujący/przenoszący operator przypisania
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow.cpp(169,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  IO_Wypozyczalnia_Rowerow.vcxproj -> D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\Debug\IO_Wypozyczalnia_Rowerow.exe
