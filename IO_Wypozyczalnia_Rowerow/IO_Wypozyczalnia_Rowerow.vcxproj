@@ -147,7 +147,39 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="IO_Wypozyczalnia_Rowerow.cpp" />
+    <ClCompile Include="Administrator.cpp" />
+    <ClCompile Include="DzialReklamacji.cpp" />
+    <ClCompile Include="Dzieciecy.cpp" />
+    <ClCompile Include="Finalizacja.cpp" />
+    <ClCompile Include="Gorski.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Miejski.cpp" />
+    <ClCompile Include="NowyUzytkownik.cpp" />
+    <ClCompile Include="Platnosc.cpp" />
+    <ClCompile Include="Pracownik.cpp" />
+    <ClCompile Include="Reklamacja.cpp" />
+    <ClCompile Include="Rezerwacja.cpp" />
+    <ClCompile Include="Rower.cpp" />
+    <ClCompile Include="Serwisant.cpp" />
+    <ClCompile Include="Uzytkownik.cpp" />
+    <ClCompile Include="ZarejestrowanyUzytkownik.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Administrator.h" />
+    <ClInclude Include="DzialReklamacji.h" />
+    <ClInclude Include="Dzieciecy.h" />
+    <ClInclude Include="Finalizacja.h" />
+    <ClInclude Include="Gorski.h" />
+    <ClInclude Include="Miejski.h" />
+    <ClInclude Include="NowyUzytkownik.h" />
+    <ClInclude Include="Platnosc.h" />
+    <ClInclude Include="Pracownik.h" />
+    <ClInclude Include="Reklamacja.h" />
+    <ClInclude Include="Rezerwacja.h" />
+    <ClInclude Include="Rower.h" />
+    <ClInclude Include="Serwisant.h" />
+    <ClInclude Include="Uzytkownik.h" />
+    <ClInclude Include="ZarejestrowanyUzytkownik.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

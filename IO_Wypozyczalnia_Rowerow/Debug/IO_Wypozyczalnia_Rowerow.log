@@ -1,5 +1,16 @@
-﻿  IO_Wypozyczalnia_Rowerow.cpp
-D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow.cpp(155,33): warning C4200: użyto niestandardowego rozszerzenia: tablica o rozmiarze zero w typie struct/union
-D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow.cpp(155,33): message : Ta składowa zostanie zignorowana przez domyślny konstruktor lub kopiujący/przenoszący operator przypisania
-D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow.cpp(169,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
-  IO_Wypozyczalnia_Rowerow.vcxproj -> D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\Debug\IO_Wypozyczalnia_Rowerow.exe
+﻿  main.cpp
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\DzialReklamacji.h(9,33): warning C4200: użyto niestandardowego rozszerzenia: tablica o rozmiarze zero w typie struct/union
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\DzialReklamacji.h(9,33): message : Ta składowa zostanie zignorowana przez domyślny konstruktor lub kopiujący/przenoszący operator przypisania
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\Rower.h(5,1): error C2011: "Rower'': "class" wpisz ponownie definicję
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\Rower.h(4): message : zobacz deklarację „Rower”
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\Gorski.h(7,1): error C2504: „Rower”: klasa bazowa niezdefiniowana
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\Miejski.h(7,1): error C2504: „Rower”: klasa bazowa niezdefiniowana
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\main.cpp(23,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  Miejski.cpp
+  NowyUzytkownik.cpp
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\NowyUzytkownik.cpp(28,1): error C2059: błąd składniowy: „}”
+D:\STUDIA\semestr 3\Inżynieria oprogramowania\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\IO_Wypozyczalnia_Rowerow\NowyUzytkownik.cpp(28,1): error C2143: błąd składniowy: brakuje „;” przed „}”
+  Platnosc.cpp
+  Rower.cpp
+  ZarejestrowanyUzytkownik.cpp
+  Generowanie kodu...
